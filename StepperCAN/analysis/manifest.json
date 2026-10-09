@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "project": "StepperCAN.kicad_pro",
+  "current": "2026-09-24_1515",
+  "runs": {
+    "2026-09-24_1459": {
+      "source_hashes": {
+        "StepperCAN.kicad_sch": "sha256:4999542c1712eccb48e46c9ff18591e2fad86cb8524c7eac9b4cff99bf3a8de1",
+        "StepperCAN.kicad_pcb": "sha256:6e1eaaf7e904dbdbaee1ae9c592ea64a711584eca89c3fa0c57c1e047f14e086",
+        "schematic.json": "sha256:83675a34fe632941c6fddf00e524a098273bc4a2ced68430072a1e410ebe1a80",
+        "pcb.json": "sha256:2020fbcc7e851fdc01aebd62f9e35382d298987f0f032cb0ed7a3306de5e1084"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "emc": "emc.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "schematic": "analyze_schematic.py StepperCAN.kicad_sch"
+      },
+      "generated": "2026-09-24T15:00:13-05:00",
+      "pinned": false
+    },
+    "2026-09-24_1515": {
+      "source_hashes": {
+        "StepperCAN.kicad_sch": "sha256:9b25b306f7c24d64682241145a0db197c950d44dcc8902686156628fa0339767"
+      },
+      "outputs": {
+        "schematic": "schematic.json",
+        "pcb": "pcb.json",
+        "cross_analysis": "cross_analysis.json",
+        "emc": "emc.json",
+        "thermal": "thermal.json"
+      },
+      "scripts": {
+        "schematic": "analyze_schematic.py StepperCAN.kicad_sch"
+      },
+      "generated": "2026-09-24T15:15:23-05:00",
+      "pinned": false
+    }
+  }
+}
